@@ -445,19 +445,19 @@ $SKPOLY
   9
 $TDCREATE
  40
-2457779.648740671
+2457779.649074236
   9
 $TDUCREATE
  40
-2457779.523740671
+2457779.524074236
   9
 $TDUPDATE
  40
-2457779.648742025
+2457779.649075579
   9
 $TDUUPDATE
  40
-2457779.523742025
+2457779.524075579
   9
 $TDINDWG
  40
@@ -885,7 +885,7 @@ $PSTYLEMODE
   9
 $FINGERPRINTGUID
   2
-{083F2CB1-F7AB-48AE-9175-4DC314A290AB}
+{DDBCD34E-3FD7-46FF-BE14-CDE2FECA5FE2}
   9
 $VERSIONGUID
   2
@@ -1095,9 +1095,9 @@ AcDbViewportTableRecord
  21
 1.0
  12
-617077.8237008948
+617117.2589953429
  22
-4068690.642080685
+4068658.696265557
  13
 0.0
  23
@@ -1123,9 +1123,9 @@ AcDbViewportTableRecord
  37
 0.0
  40
-145.0126975378953
+208.8182844542898
  41
-1.896419437339322
+1.896419437341636
  42
 50.0
  43
@@ -3265,7 +3265,7 @@ AcDbLayerTableRecord
   2
 0
  70
-     5
+     4
  62
      5
   6
@@ -3287,7 +3287,7 @@ AcDbLayerTableRecord
   2
 BA\U+015ELIK
  70
-     5
+     4
  62
      1
   6
@@ -3309,7 +3309,7 @@ AcDbLayerTableRecord
   2
 KENAR
  70
-     5
+     4
  62
      4
   6
@@ -3331,7 +3331,7 @@ AcDbLayerTableRecord
   2
 NKOT
  70
-     5
+     4
  62
      1
   6
@@ -3353,7 +3353,7 @@ AcDbLayerTableRecord
   2
 NADI5
  70
-     5
+     4
  62
      6
   6
@@ -3375,7 +3375,7 @@ AcDbLayerTableRecord
   2
 NOKTAUST
  70
-     1
+     0
  62
     30
   6
@@ -3397,7 +3397,7 @@ AcDbLayerTableRecord
   2
 NADI
  70
-     5
+     4
  62
      7
   6
@@ -3419,7 +3419,7 @@ AcDbLayerTableRecord
   2
 CEVHER
  70
-     5
+     4
  62
      6
   6
@@ -3441,7 +3441,7 @@ AcDbLayerTableRecord
   2
 ana ba\U+015Fl\U+0131k
  70
-     5
+     4
  62
      4
   6
@@ -3463,7 +3463,7 @@ AcDbLayerTableRecord
   2
 BULUT1
  70
-     5
+     4
  62
      6
   6
@@ -3485,7 +3485,7 @@ AcDbLayerTableRecord
   2
 NOKTAALT
  70
-     5
+     4
  62
      5
   6
@@ -3507,7 +3507,7 @@ AcDbLayerTableRecord
   2
 NADI1
  70
-     5
+     4
  62
      7
   6
@@ -3551,7 +3551,7 @@ AcDbLayerTableRecord
   2
 Nokta5
  70
-     5
+     4
  62
      6
   6
@@ -3573,7 +3573,7 @@ AcDbLayerTableRecord
   2
 FERE
  70
-     5
+     4
  62
      1
   6
@@ -3595,7 +3595,7 @@ AcDbLayerTableRecord
   2
 YENINOKTA
  70
-     5
+     4
  62
      2
   6
@@ -3617,7 +3617,7 @@ AcDbLayerTableRecord
   2
 NIR
  70
-     5
+     4
  62
      2
   6
@@ -3639,7 +3639,7 @@ AcDbLayerTableRecord
   2
 SEVALT
  70
-     5
+     4
  62
      2
   6
@@ -3661,7 +3661,7 @@ AcDbLayerTableRecord
   2
 KADEME5
  70
-     5
+     4
  62
      6
   6
@@ -3683,7 +3683,7 @@ AcDbLayerTableRecord
   2
 USTGALERI
  70
-     5
+     4
  62
      4
   6
@@ -3705,7 +3705,7 @@ AcDbLayerTableRecord
   2
 BULUT2
  70
-     5
+     4
  62
      1
   6
@@ -3727,7 +3727,7 @@ AcDbLayerTableRecord
   2
 INIT_COORD
  70
-     5
+     4
  62
      2
   6
@@ -3749,7 +3749,7 @@ AcDbLayerTableRecord
   2
 AA
  70
-     5
+     4
  62
      4
   6
@@ -3771,7 +3771,7 @@ AcDbLayerTableRecord
   2
 ALTGALERI
  70
-     5
+     4
  62
      1
   6
@@ -3793,7 +3793,7 @@ AcDbLayerTableRecord
   2
 SEVUST
  70
-     5
+     4
  62
      2
   6
@@ -3815,7 +3815,7 @@ AcDbLayerTableRecord
   2
 BULUT3
  70
-     5
+     4
  62
      3
   6
@@ -3837,7 +3837,7 @@ AcDbLayerTableRecord
   2
 GRID
  70
-     5
+     4
  62
      2
   6
@@ -3859,7 +3859,7 @@ AcDbLayerTableRecord
   2
 POL
  70
-     5
+     4
  62
      2
   6
@@ -3881,7 +3881,7 @@ AcDbLayerTableRecord
   2
 NKOT5
  70
-     5
+     4
  62
      6
   6
@@ -3903,7 +3903,7 @@ AcDbLayerTableRecord
   2
 BPAFTA
  70
-     5
+     4
  62
      7
   6
@@ -3925,7 +3925,7 @@ AcDbLayerTableRecord
   2
 NOKTA
  70
-     5
+     4
  62
     30
   6
@@ -3947,7 +3947,7 @@ AcDbLayerTableRecord
   2
 RUHASAT
  70
-     5
+     4
  62
      3
   6
@@ -3969,7 +3969,7 @@ AcDbLayerTableRecord
   2
 BULUT4
  70
-     5
+     4
  62
      4
   6
@@ -3991,7 +3991,7 @@ AcDbLayerTableRecord
   2
 GALERI5
  70
-     5
+     4
  62
      6
   6
@@ -4013,7 +4013,7 @@ AcDbLayerTableRecord
   2
 KOORD\U+0130NAT
  70
-     5
+     4
  62
      4
   6
@@ -4035,7 +4035,7 @@ AcDbLayerTableRecord
   2
 NKOT1
  70
-     5
+     4
  62
      1
   6
@@ -4057,7 +4057,7 @@ AcDbLayerTableRecord
   2
 BÖL.BA\U+015ELI\U+011EI
  70
-     5
+     4
  62
      1
   6
@@ -4079,7 +4079,7 @@ AcDbLayerTableRecord
   2
 SEV
  70
-     5
+     4
  62
      3
   6
@@ -4101,7 +4101,7 @@ AcDbLayerTableRecord
   2
 NOKTA4
  70
-     5
+     4
  62
     30
   6
@@ -4123,7 +4123,7 @@ AcDbLayerTableRecord
   2
 FEYTULLAH
  70
-     5
+     4
  62
      4
   6
@@ -32931,7 +32931,7 @@ AcDbXrecord
 280
      1
  40
-145.0126975378953
+208.8182844542898
   0
 XRECORD
   5
@@ -32949,7 +32949,7 @@ AcDbXrecord
 280
      1
  40
-275.0048982718727
+396.0070535114501
   0
 DICTIONARY
   5
